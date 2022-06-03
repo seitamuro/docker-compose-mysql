@@ -4,6 +4,7 @@ docker-composeを利用して､MySQLのコンテナを作成する｡
 
 # ディレクトリツリー
 
+```
 .
 └── docker-mysql
     ├── docker-compose.yml
@@ -12,6 +13,7 @@ docker-composeを利用して､MySQLのコンテナを作成する｡
         │   └── world.sql
         ├── Dockerfile
         └── my.cnf
+```
 
 # つまづいたこと
 
